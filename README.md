@@ -18,7 +18,7 @@ go to C:\test
 Open ipr file from intelliJ Idea
 
 # 5)
-set working directory => ArxxusGame-working\core\assets
+set working directory => ..\core\assets
 
 Build and run from intelliJ Idea 
 or
